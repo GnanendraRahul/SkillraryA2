@@ -10,6 +10,7 @@ import genericUtilities.IConstantPath;
 
 public class AddCourseTest extends BaseClass
 {
+	//this test verifies is user is able to add course
 	SoftAssert soft = new SoftAssert();
 	
     @Test
