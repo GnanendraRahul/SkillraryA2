@@ -10,6 +10,7 @@ import genericUtilities.IConstantPath;
 
 public class AddCategoryPage extends BaseClass
 {
+	//this test verifies is user is able to add category
 
 	@Test
 	public void addCategoryTest()
